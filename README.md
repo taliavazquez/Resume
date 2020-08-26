@@ -5,30 +5,30 @@
 * [Portfolio](https://taliavazquez.github.io/portfolio/)
 * [GitHub](https://github.com/taliavazquez)
 
-## Table of Contents
-* [Education] (## Education)
-* [Web Development] (#### Web Development Technical Skills)
-* [Graphic Design] (#### Graphic Design Technical Skills)
-* [Job History] (#### Job History)
-
-
-## Education
-
 #### Web Development Technical Skills
 - [![javascript](./src/javascript.svg)](https://aleen42.github.io/badges/src/javascript.svg) 
 - [![node](./src/node.svg)](https://aleen42.github.io/badges/src/node.svg) 
 - [![npm](./src/npm.svg)](https://aleen42.github.io/badges/src/npm.svg) 
 - [![visual_studio_code](./src/visual_studio_code.svg)](https://aleen42.github.io/badges/src/visual_studio_code.svg) 
 - [![gitlab](./src/gitlab.svg)](https://aleen42.github.io/badges/src/gitlab.svg) 
-- [![stackoverflow](./src/stackoverflow.svg)](https://aleen42.github.io/badges/src/stackoverflow.svg) 
 - [![github](./src/github.svg)](https://aleen42.github.io/badges/src/github.svg) 
 - [![codepen](./src/codepen.svg)](https://aleen42.github.io/badges/src/codepen.svg) 
+- [![stackoverflow](./src/stackoverflow.svg)](https://aleen42.github.io/badges/src/stackoverflow.svg) 
 - [![slack](./src/slack.svg)](https://aleen42.github.io/badges/src/slack.svg) 
+
+
 #### Graphic Design Technical Skills
 - [![photoshop](./src/photoshop.svg)](https://aleen42.github.io/badges/src/photoshop.svg)
 - [![illustrator](./src/illustrator.svg)](https://aleen42.github.io/badges/src/illustrator.svg)
 
 #### Job History
+
+
+
+#### Education
+Art Institute of Charlotte - Associate of Applied Science
+UCSD Extension - Full Stack Development Certificate
+
 
 
 
