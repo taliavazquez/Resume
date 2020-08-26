@@ -26,8 +26,8 @@
 
 
 #### Education
-*Art Institute of Charlotte - Associate of Applied Science 
-*UCSD Extension - Full Stack Development Certificate
+* Art Institute of Charlotte - Associate of Applied Science 
+* UCSD Extension - Full Stack Development Certificate
 
 
 
