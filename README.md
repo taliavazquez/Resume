@@ -6,12 +6,14 @@
 * [GitHub](https://github.com/taliavazquez)
 
 ## Table of Contents
-* [Web Development Technical Skills](#installation)
-* [Graphic Design Technical Skills](#installation)
-* [Job History](#usage)
+* [Web Development](#Web Development Technical Skills)
+* [Graphic Design](#Graphic Design Technical Skills)
+* [Job History](#Job History)
 * [Education](#credits)
 
-## Web Development Technical Skills
+## Education
+
+#### Web Development Technical Skills
 - [![javascript](./src/javascript.svg)](https://aleen42.github.io/badges/src/javascript.svg) 
 - [![node](./src/node.svg)](https://aleen42.github.io/badges/src/node.svg) 
 - [![npm](./src/npm.svg)](https://aleen42.github.io/badges/src/npm.svg) 
@@ -21,13 +23,13 @@
 - [![github](./src/github.svg)](https://aleen42.github.io/badges/src/github.svg) 
 - [![codepen](./src/codepen.svg)](https://aleen42.github.io/badges/src/codepen.svg) 
 - [![slack](./src/slack.svg)](https://aleen42.github.io/badges/src/slack.svg) 
-## Graphic Design Technical Skills
+#### Graphic Design Technical Skills
 - [![photoshop](./src/photoshop.svg)](https://aleen42.github.io/badges/src/photoshop.svg)
 - [![illustrator](./src/illustrator.svg)](https://aleen42.github.io/badges/src/illustrator.svg)
 
-## Job History
+#### Job History
 
-## Education
+
 
 
 
