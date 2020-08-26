@@ -12,6 +12,7 @@
 * [Education](#credits)
 
 ## Web Development Technical Skills
+-![html](https://img.shields.io/badge/%20%20HTML-%20%20%20%2043L-e34c26.svg)
 - [![javascript](./src/javascript.svg)](https://aleen42.github.io/badges/src/javascript.svg) A badge used for projects that coded with JavaScript
 - [![node](./src/node.svg)](https://aleen42.github.io/badges/src/node.svg) A badge used for projects built with Node.js
 - [![npm](./src/npm.svg)](https://aleen42.github.io/badges/src/npm.svg) A badge used for npm packages
@@ -21,7 +22,6 @@
 
 - [![github](./src/github.svg)](https://aleen42.github.io/badges/src/github.svg) A badge used for GitHub repositories
 - [![codepen](./src/codepen.svg)](https://aleen42.github.io/badges/src/codepen.svg) A badge used for projects running on CodePen
-- [![hacker](./src/hacker.svg)](https://aleen42.github.io/badges/src/hacker.svg) A badge used for hacking projects (**Business Using is not allowed)**
 - [![slack](./src/slack.svg)](https://aleen42.github.io/badges/src/slack.svg) A badge used for projects discussed on Slack
 ## Graphic Design Technical Skills
 - [![photoshop](./src/photoshop.svg)](https://aleen42.github.io/badges/src/photoshop.svg) A badge used for designing projects using Photoshop as a tool
