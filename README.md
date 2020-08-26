@@ -12,7 +12,6 @@
 * [Education](#credits)
 
 ## Web Development Technical Skills
-- [![html](https://img.shields.io/badge/%100%100HTML-%100%100%100%2043L-e34c26.svg)
 - [![javascript](./src/javascript.svg)](https://aleen42.github.io/badges/src/javascript.svg) 
 - [![node](./src/node.svg)](https://aleen42.github.io/badges/src/node.svg) 
 - [![npm](./src/npm.svg)](https://aleen42.github.io/badges/src/npm.svg) 
