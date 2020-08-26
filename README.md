@@ -22,7 +22,8 @@
 - [![illustrator](./src/illustrator.svg)](https://aleen42.github.io/badges/src/illustrator.svg)
 
 #### Job History
-
+06/2012 - Present    *Talia Creations*   NC, WA, OR, and CA
+* Freelance Graphic Designer
 
 
 #### Education
