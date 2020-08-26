@@ -6,10 +6,11 @@
 * [GitHub](https://github.com/taliavazquez)
 
 ## Table of Contents
-* [Web Development] (#Web Development Technical Skills)
-* [Graphic Design] (#Graphic Design Technical Skills)
-* [Job History] (#Job History)
-* [Education] (#credits)
+* [Education] (## Education)
+* [Web Development] (#### Web Development Technical Skills)
+* [Graphic Design] (#### Graphic Design Technical Skills)
+* [Job History] (#### Job History)
+
 
 ## Education
 
