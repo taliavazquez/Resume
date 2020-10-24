@@ -1,4 +1,5 @@
 # Talia Vazquez
+* [Resume.pdf](https://github.com/taliavazquez/Resume/blob/master/Talia%20Vazquez%20Resume.pdf)
 ## Contact Me
 * [Email](mailto:vazqueztalia@outlook.com)
 * [LinkedIn](https://www.linkedin.com/in/talia-vazquez-1768461a9)
