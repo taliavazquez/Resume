@@ -7,7 +7,7 @@
 * [GitHub](https://github.com/taliavazquez)
 
 #### Web Development Technical Skills
-- [![react](./src/react.svg)
+- [![react](./src/react.svg)]
 - [![javascript](./src/javascript.svg)](https://aleen42.github.io/badges/src/javascript.svg) 
 - [![node](./src/node.svg)](https://aleen42.github.io/badges/src/node.svg) 
 - [![npm](./src/npm.svg)](https://aleen42.github.io/badges/src/npm.svg) 
