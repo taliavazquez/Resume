@@ -10,13 +10,11 @@
 - [![javascript](./src/javascript.svg)](https://aleen42.github.io/badges/src/javascript.svg) 
 - [![node](./src/node.svg)](https://aleen42.github.io/badges/src/node.svg) 
 - [![npm](./src/npm.svg)](https://aleen42.github.io/badges/src/npm.svg) 
+- [![codepen](./src/codepen.svg)](https://aleen42.github.io/badges/src/codepen.svg) 
 - [![visual_studio_code](./src/visual_studio_code.svg)](https://aleen42.github.io/badges/src/visual_studio_code.svg) 
+- [![slack](./src/slack.svg)](https://aleen42.github.io/badges/src/slack.svg) 
 - [![gitlab](./src/gitlab.svg)](https://aleen42.github.io/badges/src/gitlab.svg) 
 - [![github](./src/github.svg)](https://aleen42.github.io/badges/src/github.svg) 
-- [![codepen](./src/codepen.svg)](https://aleen42.github.io/badges/src/codepen.svg) 
-- [![stackoverflow](./src/stackoverflow.svg)](https://aleen42.github.io/badges/src/stackoverflow.svg) 
-- [![slack](./src/slack.svg)](https://aleen42.github.io/badges/src/slack.svg) 
-
 
 #### Graphic Design Technical Skills
 - [![photoshop](./src/photoshop.svg)](https://aleen42.github.io/badges/src/photoshop.svg)
