@@ -2,7 +2,7 @@
 * [Resume.pdf](https://github.com/taliavazquez/Resume/raw/master/Talia%20Vazquez%20Resume.pdf)
 ## Contact Me
 * [Email](mailto:vazqueztalia@outlook.com)
-* [LinkedIn](https://www.linkedin.com/in/talia-vazquez-1768461a9)
+* [LinkedIn](https://www.linkedin.com/in/taliavazquez/)
 * [Portfolio](https://taliavazquez.github.io/portfolio/)
 * [GitHub](https://github.com/taliavazquez)
 
@@ -24,12 +24,12 @@
 
 #### Job History
 06/2012 - Present    *Talia Creations*   NC, WA, OR, and CA
-* Freelance Graphic Designer
+* Freelance Full Stack Web Developer
 
 
 #### Education
 * Art Institute of Charlotte - Associate of Applied Science 
-* UCSD Extension - Full Stack Development Certificate
+* UCSD Extension - Web Development Methods Certificate
 
 
 
